@@ -1,4 +1,4 @@
-Ingredients
+Base Ingredients
     1 cup steel cut oats
     3 cups water
     ¼ teaspoon sea salt
