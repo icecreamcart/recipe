@@ -1,3 +1,5 @@
+Let's begin!
+
 Base Ingredients
     1 cup steel cut oats
     3 cups water
@@ -17,3 +19,5 @@ Variation 2: Blueberries & Coconut
     Scoop of Greek yogurt
     Chia seeds
     Coconut flakes
+
+Enjoy my recipe!
