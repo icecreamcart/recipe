@@ -1,10 +1,10 @@
 *### This is a LOCAL change :)*
 
-# recipe name: **Simple Oatmeal**
+# Recipe name: **Simple Oatmeal**
 _line 2 changed remotely_ 
 
-### breif description: 
-a basic oatmeal recipe along with 2 variations: 
+### Brief description: 
+A basic oatmeal recipe along with 2 variations
 1. Apple  & Tart Cherry
 2. Blueberries & Coconut
 
@@ -17,6 +17,7 @@ https://www.loveandlemons.com/how-to-make-oatmeal/
 Jeanine Donofrio
 
 
-Parent folder: DS Toolset A5
-last line changed locally
+*Parent folder: DS Toolset A5*
+
+*last line changed locally*
 *### This is a REMOTE change :O* 
