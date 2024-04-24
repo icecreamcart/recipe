@@ -5,7 +5,8 @@ line 2 changed remotely
 
 ### breif description: 
 a basic oatmeal recipe along with 2 variations: 
-"Apple  & Tart Cherry" and "Blueberries & Coconut"
+1. Apple  & Tart Cherry
+2. Blueberries & Coconut
 
 ### Source: 
 https://www.loveandlemons.com/how-to-make-oatmeal/
