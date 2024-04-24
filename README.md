@@ -8,6 +8,8 @@ a basic oatmeal recipe along with 2 variations:
 1. Apple  & Tart Cherry
 2. Blueberries & Coconut
 
+![Oatmeal image](recipe.jpg)
+
 ### Source: 
 https://www.loveandlemons.com/how-to-make-oatmeal/
 
