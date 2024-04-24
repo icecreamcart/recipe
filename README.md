@@ -1,7 +1,7 @@
-### This is a LOCAL change :)
+*### This is a LOCAL change :)*
 
-# recipe name: Simple Oatmeal
-line 2 changed remotely 
+# recipe name: **Simple Oatmeal**
+_line 2 changed remotely_ 
 
 ### breif description: 
 a basic oatmeal recipe along with 2 variations: 
@@ -17,4 +17,4 @@ Jeanine Donofrio
 
 Parent folder: DS Toolset A5
 last line changed locally
-### This is a REMOTE change :O 
+*### This is a REMOTE change :O* 
